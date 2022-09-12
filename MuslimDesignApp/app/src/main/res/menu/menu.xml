@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/shalatFragment"
+        android:icon="@drawable/ic_baseline_loyalty_24"
+        android:title="Shalat" />
+
+    <item
+        android:id="@+id/agendaFragment2"
+        android:icon="@drawable/ic_baseline_view_agenda_24"
+        android:title="Agenda" />
+
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Profile" />
+
+</menu>
